@@ -1,0 +1,8 @@
+.dub
+docs.json
+__dummy.html
+*.a
+*.o
+*.obj
+dub.selections.json
+__test__*__

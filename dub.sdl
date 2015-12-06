@@ -1,5 +1,5 @@
-name "libbuffer"
+name "gcbuffer"
 targetType "library"
-targetName "buffer"
+targetName "gcbuffer"
 copyright "Copyright © 2015, Mathias 'Geod24' Lang"
 authors "Geod24"
